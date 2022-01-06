@@ -105,6 +105,7 @@ body {
   font-weight: 400;
   line-height: 2.5rem;
   color: rgba(255, 255, 255, 0.6);
+  text-transform: uppercase;
 }
 .text-container .text-container__stats span {
   color: white;
